@@ -15,3 +15,11 @@
 ##### Connect With Me
 
 [![My Connect](https://skillicons.dev/icons?i=instagram,github,discord&theme=light)](https://skillicons.dev)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daffahafisd11/daffahafisd11/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daffahafisd11/daffahafisd11/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daffahafisd11/daffahafisd11/pacman-output/pacman-contribution-graph.svg">
+</picture>
