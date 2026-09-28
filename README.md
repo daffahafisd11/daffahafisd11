@@ -3,7 +3,17 @@
 ---
 
 ##### About Me
- Hello World, kenalin nama saya Daffa Hafisd P. Saya anak kelas 11 di SMKN 1 Sayung, jurusan PPLG. Santai, biasa aja, tapi tetep serius kalau lagi ngoding atau ngerjain tugas. Saya tipenya anak yang asik diajak ngobrol, lumayan bisa diajak kerja sama tim, dan pastinya lagi suka belajar hal-hal baru soal dunia digital. Yaudah, itu aja singkatnya, salam kenal ya!
+ **Hello World! 👋**
+
+Saya **Daffa Hafisd P**, siswa kelas 12 **SMKN 1 Sayung** dari jurusan **PPLG (Pengembangan Perangkat Lunak dan Gim)**.
+
+Saya adalah **Junior Backend Developer & Web Developer** yang memiliki ketertarikan dalam membangun aplikasi web, mengembangkan sistem backend, serta mengelola database. Saya senang mengubah ide menjadi sebuah sistem yang dapat digunakan dan terus belajar melalui berbagai project yang saya kerjakan.
+
+Bagi saya, coding bukan cuma tentang menulis kode, tapi tentang **memecahkan masalah, membangun sesuatu, dan terus berkembang**. 🚀
+
+Saat ini saya terus mengembangkan skill dan pengalaman untuk mempersiapkan diri masuk ke dunia industri teknologi.
+
+**Keep learning. Keep building. Keep improving.**
 
 ---
 
